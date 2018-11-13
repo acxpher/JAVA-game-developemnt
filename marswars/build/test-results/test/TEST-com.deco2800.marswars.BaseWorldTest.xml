@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.deco2800.marswars.BaseWorldTest" tests="10" skipped="1" failures="0" errors="0" timestamp="2017-10-22T17:32:15" hostname="freddys-MacBook-Pro.local" time="1.531">
+  <properties/>
+  <testcase name="testGetCollisionMap" classname="com.deco2800.marswars.BaseWorldTest" time="1.376"/>
+  <testcase name="testGetEntityWithIndexOutOfBounds" classname="com.deco2800.marswars.BaseWorldTest" time="0.016"/>
+  <testcase name="testRemoveEntity" classname="com.deco2800.marswars.BaseWorldTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="testHasEntity" classname="com.deco2800.marswars.BaseWorldTest" time="0.015"/>
+  <testcase name="testAddEntity" classname="com.deco2800.marswars.BaseWorldTest" time="0.017"/>
+  <testcase name="testGetNumberOfTiles" classname="com.deco2800.marswars.BaseWorldTest" time="0.017"/>
+  <testcase name="testSetLength" classname="com.deco2800.marswars.BaseWorldTest" time="0.003"/>
+  <testcase name="testGetEntity" classname="com.deco2800.marswars.BaseWorldTest" time="0.003"/>
+  <testcase name="testBaseWorldConstructorWithStrings" classname="com.deco2800.marswars.BaseWorldTest" time="0.076"/>
+  <testcase name="testSetWidth" classname="com.deco2800.marswars.BaseWorldTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

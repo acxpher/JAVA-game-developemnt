@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.deco2800.marswars.CustomizedWorldTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-10-22T17:32:19" hostname="freddys-MacBook-Pro.local" time="0.021">
+  <properties/>
+  <testcase name="testLoadMapContainer" classname="com.deco2800.marswars.CustomizedWorldTest" time="0.011"/>
+  <testcase name="testCustomizedWorldConstructor" classname="com.deco2800.marswars.CustomizedWorldTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

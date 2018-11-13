@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.deco2800.marswars.TimeManagerTest" tests="25" skipped="0" failures="0" errors="0" timestamp="2017-10-22T17:32:19" hostname="freddys-MacBook-Pro.local" time="0.217">
+  <properties/>
+  <testcase name="testGetGlobalTimeString" classname="com.deco2800.marswars.TimeManagerTest" time="0.001"/>
+  <testcase name="testGetHours" classname="com.deco2800.marswars.TimeManagerTest" time="0.0"/>
+  <testcase name="testGetGlobalSeconds" classname="com.deco2800.marswars.TimeManagerTest" time="0.001"/>
+  <testcase name="testAddTime" classname="com.deco2800.marswars.TimeManagerTest" time="0.0"/>
+  <testcase name="testGetPlayMinutes" classname="com.deco2800.marswars.TimeManagerTest" time="0.0"/>
+  <testcase name="testSetGameStartTime" classname="com.deco2800.marswars.TimeManagerTest" time="0.0"/>
+  <testcase name="testPause" classname="com.deco2800.marswars.TimeManagerTest" time="0.001"/>
+  <testcase name="resetInGameTime" classname="com.deco2800.marswars.TimeManagerTest" time="0.0"/>
+  <testcase name="testToString" classname="com.deco2800.marswars.TimeManagerTest" time="0.0"/>
+  <testcase name="testGetPlayHours" classname="com.deco2800.marswars.TimeManagerTest" time="0.0"/>
+  <testcase name="testUnPause" classname="com.deco2800.marswars.TimeManagerTest" time="0.0"/>
+  <testcase name="testUnpause" classname="com.deco2800.marswars.TimeManagerTest" time="0.002"/>
+  <testcase name="testGetInGameTime" classname="com.deco2800.marswars.TimeManagerTest" time="0.0"/>
+  <testcase name="testGetPlaySeconds" classname="com.deco2800.marswars.TimeManagerTest" time="0.001"/>
+  <testcase name="testGetGameDays" classname="com.deco2800.marswars.TimeManagerTest" time="0.0"/>
+  <testcase name="setGameStartTime" classname="com.deco2800.marswars.TimeManagerTest" time="0.001"/>
+  <testcase name="testIsPaused" classname="com.deco2800.marswars.TimeManagerTest" time="0.0"/>
+  <testcase name="testGetGlobalTime" classname="com.deco2800.marswars.TimeManagerTest" time="0.0"/>
+  <testcase name="testGetPlayClockTime" classname="com.deco2800.marswars.TimeManagerTest" time="0.001"/>
+  <testcase name="testGetMinutes" classname="com.deco2800.marswars.TimeManagerTest" time="0.0"/>
+  <testcase name="testGetGlobalHours" classname="com.deco2800.marswars.TimeManagerTest" time="0.0"/>
+  <testcase name="testOnTick" classname="com.deco2800.marswars.TimeManagerTest" time="0.105"/>
+  <testcase name="testIsNight" classname="com.deco2800.marswars.TimeManagerTest" time="0.0"/>
+  <testcase name="testGetGlobalMinutes" classname="com.deco2800.marswars.TimeManagerTest" time="0.0"/>
+  <testcase name="testGetGameTimer" classname="com.deco2800.marswars.TimeManagerTest" time="0.102"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

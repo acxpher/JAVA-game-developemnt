@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.deco2800.marswars.heros.HeroFactoryTest" tests="8" skipped="4" failures="0" errors="0" timestamp="2017-10-22T17:32:18" hostname="freddys-MacBook-Pro.local" time="0.009">
+  <properties/>
+  <testcase name="constructorTest" classname="com.deco2800.marswars.heros.HeroFactoryTest" time="0.002"/>
+  <testcase name="builtTest" classname="com.deco2800.marswars.heros.HeroFactoryTest" time="0.001"/>
+  <testcase name="checkOwner" classname="com.deco2800.marswars.heros.HeroFactoryTest" time="0.0"/>
+  <testcase name="buttonTest" classname="com.deco2800.marswars.heros.HeroFactoryTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="floodingTest" classname="com.deco2800.marswars.heros.HeroFactoryTest" time="0.0"/>
+  <testcase name="selectionTest" classname="com.deco2800.marswars.heros.HeroFactoryTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="helperTest" classname="com.deco2800.marswars.heros.HeroFactoryTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="actionTest" classname="com.deco2800.marswars.heros.HeroFactoryTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

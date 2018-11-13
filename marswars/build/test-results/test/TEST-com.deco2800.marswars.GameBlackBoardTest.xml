@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.deco2800.marswars.GameBlackBoardTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2017-10-22T17:32:18" hostname="freddys-MacBook-Pro.local" time="0.013">
+  <properties/>
+  <testcase name="indextest" classname="com.deco2800.marswars.GameBlackBoardTest" time="0.005"/>
+  <testcase name="teamsAlive" classname="com.deco2800.marswars.GameBlackBoardTest" time="0.001"/>
+  <testcase name="getHistoryTest" classname="com.deco2800.marswars.GameBlackBoardTest" time="0.001"/>
+  <testcase name="buildingcounttest" classname="com.deco2800.marswars.GameBlackBoardTest" time="0.001"/>
+  <testcase name="updateUnitTest" classname="com.deco2800.marswars.GameBlackBoardTest" time="0.0"/>
+  <testcase name="setUpTest" classname="com.deco2800.marswars.GameBlackBoardTest" time="0.001"/>
+  <testcase name="twounittest" classname="com.deco2800.marswars.GameBlackBoardTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

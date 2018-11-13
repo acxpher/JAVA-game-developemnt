@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.deco2800.marswars.InventoryTest" tests="9" skipped="9" failures="0" errors="0" timestamp="2017-09-21T06:23:40" hostname="freddys-MacBook-Pro.local" time="0.002">
+  <properties/>
+  <testcase name="testRemoveFromInventory" classname="com.deco2800.marswars.InventoryTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testAddSameWeaponToInventory" classname="com.deco2800.marswars.InventoryTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testGetSpecials" classname="com.deco2800.marswars.InventoryTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testUseItem" classname="com.deco2800.marswars.InventoryTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testRemoveEffect" classname="com.deco2800.marswars.InventoryTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testGetArmour" classname="com.deco2800.marswars.InventoryTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testInitialInventory" classname="com.deco2800.marswars.InventoryTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testApplyEffect" classname="com.deco2800.marswars.InventoryTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testGetWeapon" classname="com.deco2800.marswars.InventoryTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

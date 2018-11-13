@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.deco2800.marswars.TextureRegisterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-10-22T17:32:17" hostname="freddys-MacBook-Pro.local" time="1.16">
+  <properties/>
+  <testcase name="ConstructorTest" classname="com.deco2800.marswars.TextureRegisterTest" time="1.16"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.deco2800.marswars.entities.items.ArmourTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2017-10-22T17:32:20" hostname="freddys-MacBook-Pro.local" time="0.004">
+  <properties/>
+  <testcase name="constructorTest" classname="com.deco2800.marswars.entities.items.ArmourTest" time="0.0"/>
+  <testcase name="getArmourTypeDescription" classname="com.deco2800.marswars.entities.items.ArmourTest" time="0.0"/>
+  <testcase name="getArmourTypeCostDescription" classname="com.deco2800.marswars.entities.items.ArmourTest" time="0.0"/>
+  <testcase name="getArmourTexture" classname="com.deco2800.marswars.entities.items.ArmourTest" time="0.0"/>
+  <testcase name="getArmourDescription" classname="com.deco2800.marswars.entities.items.ArmourTest" time="0.0"/>
+  <testcase name="getArmourMoveSpeed" classname="com.deco2800.marswars.entities.items.ArmourTest" time="0.0"/>
+  <testcase name="getName" classname="com.deco2800.marswars.entities.items.ArmourTest" time="0.0"/>
+  <testcase name="getArmourTypeCost" classname="com.deco2800.marswars.entities.items.ArmourTest" time="0.0"/>
+  <testcase name="getArmourValue" classname="com.deco2800.marswars.entities.items.ArmourTest" time="0.0"/>
+  <testcase name="getArmourHealth" classname="com.deco2800.marswars.entities.items.ArmourTest" time="0.0"/>
+  <testcase name="getArmourType" classname="com.deco2800.marswars.entities.items.ArmourTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

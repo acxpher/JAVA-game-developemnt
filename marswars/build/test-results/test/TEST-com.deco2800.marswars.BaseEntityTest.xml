@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.deco2800.marswars.BaseEntityTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2017-10-22T17:32:19" hostname="freddys-MacBook-Pro.local" time="0.558">
+  <properties/>
+  <testcase name="constructorTest" classname="com.deco2800.marswars.BaseEntityTest" time="0.0"/>
+  <testcase name="setPositionsTest" classname="com.deco2800.marswars.BaseEntityTest" time="0.0"/>
+  <testcase name="helpTextTest" classname="com.deco2800.marswars.BaseEntityTest" time="0.547"/>
+  <testcase name="selectedTest" classname="com.deco2800.marswars.BaseEntityTest" time="0.0"/>
+  <testcase name="setMoveAction" classname="com.deco2800.marswars.BaseEntityTest" time="0.003"/>
+  <testcase name="removeActionTest" classname="com.deco2800.marswars.BaseEntityTest" time="0.0"/>
+  <testcase name="entityTypeTest" classname="com.deco2800.marswars.BaseEntityTest" time="0.0"/>
+  <testcase name="fullBlownConstructorTest" classname="com.deco2800.marswars.BaseEntityTest" time="0.0"/>
+  <testcase name="colidableTest" classname="com.deco2800.marswars.BaseEntityTest" time="0.0"/>
+  <testcase name="constructorsTest" classname="com.deco2800.marswars.BaseEntityTest" time="0.0"/>
+  <testcase name="setGatherAction" classname="com.deco2800.marswars.BaseEntityTest" time="0.003"/>
+  <testcase name="buttonTest" classname="com.deco2800.marswars.BaseEntityTest" time="0.0"/>
+  <testcase name="setCostTest" classname="com.deco2800.marswars.BaseEntityTest" time="0.0"/>
+  <testcase name="actionsTest" classname="com.deco2800.marswars.BaseEntityTest" time="0.0"/>
+  <testcase name="getActionNameTest" classname="com.deco2800.marswars.BaseEntityTest" time="0.001"/>
+  <testcase name="addActionTest" classname="com.deco2800.marswars.BaseEntityTest" time="0.001"/>
+  <system-out><![CDATA[true
+]]></system-out>
+  <system-err><![CDATA[Exception in thread "Thread-7" java.lang.NullPointerException
+	at com.deco2800.marswars.util.PathfindingThread.run(PathfindingThread.java:36)
+	at java.lang.Thread.run(Thread.java:748)
+Exception in thread "Thread-8" java.lang.NullPointerException
+	at com.deco2800.marswars.util.PathfindingThread.run(PathfindingThread.java:36)
+	at java.lang.Thread.run(Thread.java:748)
+]]></system-err>
+</testsuite>

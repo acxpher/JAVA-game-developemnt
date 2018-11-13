@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.deco2800.marswars.GameTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-10-22T17:32:17" hostname="freddys-MacBook-Pro.local" time="0.388">
+  <properties/>
+  <testcase name="emptyTest" classname="com.deco2800.marswars.GameTest" time="0.004"/>
+  <testcase name="testGame" classname="com.deco2800.marswars.GameTest" time="0.001"/>
+  <testcase name="testGameSave" classname="com.deco2800.marswars.GameTest" time="0.383"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

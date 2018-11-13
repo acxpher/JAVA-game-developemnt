@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.deco2800.marswars.MultiSelectionTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2017-10-22T17:32:19" hostname="freddys-MacBook-Pro.local" time="0.069">
+  <properties/>
+  <testcase name="multiSelectionTile" classname="com.deco2800.marswars.MultiSelectionTest" time="0.014"/>
+  <testcase name="testCallMouseHandler" classname="com.deco2800.marswars.MultiSelectionTest" time="0.015"/>
+  <testcase name="testCallAllTiles" classname="com.deco2800.marswars.MultiSelectionTest" time="0.009"/>
+  <testcase name="testAddStartTile" classname="com.deco2800.marswars.MultiSelectionTest" time="0.01"/>
+  <testcase name="testAddEndTile" classname="com.deco2800.marswars.MultiSelectionTest" time="0.01"/>
+  <testcase name="nullWorld" classname="com.deco2800.marswars.MultiSelectionTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

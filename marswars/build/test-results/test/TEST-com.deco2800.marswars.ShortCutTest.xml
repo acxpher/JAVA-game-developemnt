@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.deco2800.marswars.ShortCutTest" tests="11" skipped="3" failures="0" errors="0" timestamp="2017-10-22T17:32:19" hostname="freddys-MacBook-Pro.local" time="0.015">
+  <properties/>
+  <testcase name="testAddExtraMedic" classname="com.deco2800.marswars.ShortCutTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testAddExtraCarrier" classname="com.deco2800.marswars.ShortCutTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testAddAiSpacMan" classname="com.deco2800.marswars.ShortCutTest" time="0.002"/>
+  <testcase name="testShortCutAdd" classname="com.deco2800.marswars.ShortCutTest" time="0.001"/>
+  <testcase name="testAddExtraHacker" classname="com.deco2800.marswars.ShortCutTest" time="0.001"/>
+  <testcase name="testAddExtraTank" classname="com.deco2800.marswars.ShortCutTest" time="0.001"/>
+  <testcase name="testAddExtraSniper" classname="com.deco2800.marswars.ShortCutTest" time="0.002"/>
+  <testcase name="testShortCutRemove" classname="com.deco2800.marswars.ShortCutTest" time="0.001"/>
+  <testcase name="testAddExtraSoldier" classname="com.deco2800.marswars.ShortCutTest" time="0.001"/>
+  <testcase name="testAddExtraSpacman" classname="com.deco2800.marswars.ShortCutTest" time="0.001"/>
+  <testcase name="testAddExtraTankDestroyer" classname="com.deco2800.marswars.ShortCutTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

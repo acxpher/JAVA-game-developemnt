@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.deco2800.marswars.entities.CarrierTest" tests="6" skipped="4" failures="0" errors="0" timestamp="2017-10-22T17:32:20" hostname="freddys-MacBook-Pro.local" time="0.001">
+  <properties/>
+  <testcase name="constructorTest" classname="com.deco2800.marswars.entities.CarrierTest" time="0.0"/>
+  <testcase name="getStatTest" classname="com.deco2800.marswars.entities.CarrierTest" time="0.001"/>
+  <testcase name="onRightClickTest" classname="com.deco2800.marswars.entities.CarrierTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="carrier" classname="com.deco2800.marswars.entities.CarrierTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="unloadAction" classname="com.deco2800.marswars.entities.CarrierTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="loadTest" classname="com.deco2800.marswars.entities.CarrierTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

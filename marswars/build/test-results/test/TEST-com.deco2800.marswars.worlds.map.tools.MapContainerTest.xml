@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.deco2800.marswars.worlds.map.tools.MapContainerTest" tests="17" skipped="2" failures="0" errors="0" timestamp="2017-10-22T17:32:19" hostname="freddys-MacBook-Pro.local" time="0.213">
+  <properties/>
+  <testcase name="getRandomResourceWithXY" classname="com.deco2800.marswars.worlds.map.tools.MapContainerTest" time="0.02"/>
+  <testcase name="getMap" classname="com.deco2800.marswars.worlds.map.tools.MapContainerTest" time="0.034"/>
+  <testcase name="passWorld" classname="com.deco2800.marswars.worlds.map.tools.MapContainerTest" time="0.012"/>
+  <testcase name="setTerrainElement" classname="com.deco2800.marswars.worlds.map.tools.MapContainerTest" time="0.023"/>
+  <testcase name="setTerrainElement1" classname="com.deco2800.marswars.worlds.map.tools.MapContainerTest" time="0.008"/>
+  <testcase name="generateEntities" classname="com.deco2800.marswars.worlds.map.tools.MapContainerTest" time="0.01"/>
+  <testcase name="generateResourcePattern" classname="com.deco2800.marswars.worlds.map.tools.MapContainerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="getRandomBuilding" classname="com.deco2800.marswars.worlds.map.tools.MapContainerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="setStructure1" classname="com.deco2800.marswars.worlds.map.tools.MapContainerTest" time="0.011"/>
+  <testcase name="setStructure2" classname="com.deco2800.marswars.worlds.map.tools.MapContainerTest" time="0.008"/>
+  <testcase name="setStructure3" classname="com.deco2800.marswars.worlds.map.tools.MapContainerTest" time="0.009"/>
+  <testcase name="generateEntitiesRandom" classname="com.deco2800.marswars.worlds.map.tools.MapContainerTest" time="0.014"/>
+  <testcase name="createCivilization" classname="com.deco2800.marswars.worlds.map.tools.MapContainerTest" time="0.009"/>
+  <testcase name="createRandomCivilization" classname="com.deco2800.marswars.worlds.map.tools.MapContainerTest" time="0.01"/>
+  <testcase name="getRandomResource" classname="com.deco2800.marswars.worlds.map.tools.MapContainerTest" time="0.011"/>
+  <testcase name="setStructure" classname="com.deco2800.marswars.worlds.map.tools.MapContainerTest" time="0.011"/>
+  <testcase name="setCivilization" classname="com.deco2800.marswars.worlds.map.tools.MapContainerTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

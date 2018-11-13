@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.deco2800.marswars.TechnologyManagerTest" tests="10" skipped="1" failures="0" errors="0" timestamp="2017-10-22T17:32:19" hostname="freddys-MacBook-Pro.local" time="0.004">
+  <properties/>
+  <testcase name="unlockHeroFactory" classname="com.deco2800.marswars.TechnologyManagerTest" time="0.001"/>
+  <testcase name="activateTech" classname="com.deco2800.marswars.TechnologyManagerTest" time="0.0"/>
+  <testcase name="getAllTechs" classname="com.deco2800.marswars.TechnologyManagerTest" time="0.0"/>
+  <testcase name="checkPrereqs" classname="com.deco2800.marswars.TechnologyManagerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="getTech" classname="com.deco2800.marswars.TechnologyManagerTest" time="0.0"/>
+  <testcase name="getActive" classname="com.deco2800.marswars.TechnologyManagerTest" time="0.001"/>
+  <testcase name="addTechnologyTest" classname="com.deco2800.marswars.TechnologyManagerTest" time="0.0"/>
+  <testcase name="technologyManagerConstructorTest" classname="com.deco2800.marswars.TechnologyManagerTest" time="0.0"/>
+  <testcase name="getUnitAttribute" classname="com.deco2800.marswars.TechnologyManagerTest" time="0.0"/>
+  <testcase name="armourUnlocks" classname="com.deco2800.marswars.TechnologyManagerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

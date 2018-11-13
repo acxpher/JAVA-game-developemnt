@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.deco2800.marswars.AbstractEntityTest" tests="10" skipped="1" failures="0" errors="0" timestamp="2017-10-22T17:32:19" hostname="freddys-MacBook-Pro.local" time="0.008">
+  <properties/>
+  <testcase name="distanceTest" classname="com.deco2800.marswars.AbstractEntityTest" time="0.001"/>
+  <testcase name="compareTest" classname="com.deco2800.marswars.AbstractEntityTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="positionTest" classname="com.deco2800.marswars.AbstractEntityTest" time="0.0"/>
+  <testcase name="equalsTest" classname="com.deco2800.marswars.AbstractEntityTest" time="0.001"/>
+  <testcase name="walkOverTest" classname="com.deco2800.marswars.AbstractEntityTest" time="0.0"/>
+  <testcase name="orderingTest" classname="com.deco2800.marswars.AbstractEntityTest" time="0.004"/>
+  <testcase name="box3DConstructorTest" classname="com.deco2800.marswars.AbstractEntityTest" time="0.001"/>
+  <testcase name="textureTest" classname="com.deco2800.marswars.AbstractEntityTest" time="0.0"/>
+  <testcase name="collisionTest" classname="com.deco2800.marswars.AbstractEntityTest" time="0.0"/>
+  <testcase name="worldEntityConstructorTest" classname="com.deco2800.marswars.AbstractEntityTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

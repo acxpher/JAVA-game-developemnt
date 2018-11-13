@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.deco2800.marswars.CarrierTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-09-24T16:34:49" hostname="freddys-MacBook-Pro.local" time="0.009">
+  <properties/>
+  <testcase name="carrier" classname="com.deco2800.marswars.CarrierTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Exception in thread "Thread-7" java.lang.NullPointerException
+	at com.deco2800.marswars.util.PathfindingThread.run(PathfindingThread.java:36)
+	at java.lang.Thread.run(Thread.java:748)
+]]></system-err>
+</testsuite>

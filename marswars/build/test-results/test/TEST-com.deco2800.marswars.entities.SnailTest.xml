@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.deco2800.marswars.entities.SnailTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-10-22T17:32:21" hostname="freddys-MacBook-Pro.local" time="0.0">
+  <properties/>
+  <testcase name="getStatTest" classname="com.deco2800.marswars.entities.SnailTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

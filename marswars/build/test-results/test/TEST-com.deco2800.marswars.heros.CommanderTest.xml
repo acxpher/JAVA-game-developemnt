@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.deco2800.marswars.heros.CommanderTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2017-10-22T17:32:18" hostname="freddys-MacBook-Pro.local" time="0.014">
+  <properties/>
+  <testcase name="statsTest" classname="com.deco2800.marswars.heros.CommanderTest" time="0.001"/>
+  <testcase name="constructorTest" classname="com.deco2800.marswars.heros.CommanderTest" time="0.002"/>
+  <testcase name="inventoryTest" classname="com.deco2800.marswars.heros.CommanderTest" time="0.002"/>
+  <testcase name="equalTest" classname="com.deco2800.marswars.heros.CommanderTest" time="0.003"/>
+  <testcase name="loyaltyTest" classname="com.deco2800.marswars.heros.CommanderTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

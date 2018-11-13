@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.deco2800.marswars.WaterTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-10-22T17:32:19" hostname="freddys-MacBook-Pro.local" time="0.005">
+  <properties/>
+  <testcase name="testSetSurrounded" classname="com.deco2800.marswars.WaterTest" time="0.004"/>
+  <testcase name="testConstruction" classname="com.deco2800.marswars.WaterTest" time="0.0"/>
+  <testcase name="testSetHealth" classname="com.deco2800.marswars.WaterTest" time="0.0"/>
+  <testcase name="testOnTick" classname="com.deco2800.marswars.WaterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.deco2800.marswars.entities.EnemySpacmanTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2017-09-24T16:34:49" hostname="freddys-MacBook-Pro.local" time="0.002">
+  <properties/>
+  <testcase name="setActionTest" classname="com.deco2800.marswars.entities.EnemySpacmanTest" time="0.0"/>
+  <testcase name="getProgressTest" classname="com.deco2800.marswars.entities.EnemySpacmanTest" time="0.001"/>
+  <testcase name="constructorTest" classname="com.deco2800.marswars.entities.EnemySpacmanTest" time="0.0"/>
+  <testcase name="getNoProgressTest" classname="com.deco2800.marswars.entities.EnemySpacmanTest" time="0.0"/>
+  <testcase name="actionTestTick" classname="com.deco2800.marswars.entities.EnemySpacmanTest" time="0.0"/>
+  <testcase name="checkOwner" classname="com.deco2800.marswars.entities.EnemySpacmanTest" time="0.001"/>
+  <testcase name="actionTest" classname="com.deco2800.marswars.entities.EnemySpacmanTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

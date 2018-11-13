@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.deco2800.marswars.DataTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-10-22T17:32:18" hostname="freddys-MacBook-Pro.local" time="0.004">
+  <properties/>
+  <testcase name="dataTest" classname="com.deco2800.marswars.DataTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

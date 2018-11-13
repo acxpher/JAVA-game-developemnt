@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.deco2800.marswars.hud.CodeInterpreterTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2017-10-22T17:32:21" hostname="freddys-MacBook-Pro.local" time="0.013">
+  <properties/>
+  <testcase name="addCrystal" classname="com.deco2800.marswars.hud.CodeInterpreterTest" time="0.002"/>
+  <testcase name="addRock" classname="com.deco2800.marswars.hud.CodeInterpreterTest" time="0.002"/>
+  <testcase name="reduceAllEnemy" classname="com.deco2800.marswars.hud.CodeInterpreterTest" time="0.001"/>
+  <testcase name="reduceOneEnemy" classname="com.deco2800.marswars.hud.CodeInterpreterTest" time="0.001"/>
+  <testcase name="switchDay" classname="com.deco2800.marswars.hud.CodeInterpreterTest" time="0.002"/>
+  <testcase name="addBiomass" classname="com.deco2800.marswars.hud.CodeInterpreterTest" time="0.002"/>
+  <testcase name="switchNight" classname="com.deco2800.marswars.hud.CodeInterpreterTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

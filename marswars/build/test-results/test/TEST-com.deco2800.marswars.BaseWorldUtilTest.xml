@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.deco2800.marswars.BaseWorldUtilTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-10-22T17:32:18" hostname="freddys-MacBook-Pro.local" time="0.005">
+  <properties/>
+  <testcase name="testPointDistanceTo" classname="com.deco2800.marswars.BaseWorldUtilTest" time="0.001"/>
+  <testcase name="testPointToString" classname="com.deco2800.marswars.BaseWorldUtilTest" time="0.003"/>
+  <system-out><![CDATA[0.00999999
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

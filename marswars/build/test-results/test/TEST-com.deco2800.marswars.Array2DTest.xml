@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.deco2800.marswars.Array2DTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2017-10-22T17:32:18" hostname="freddys-MacBook-Pro.local" time="0.016">
+  <properties/>
+  <testcase name="constructorTest" classname="com.deco2800.marswars.Array2DTest" time="0.0"/>
+  <testcase name="getListTest" classname="com.deco2800.marswars.Array2DTest" time="0.0"/>
+  <testcase name="setTestException" classname="com.deco2800.marswars.Array2DTest" time="0.01"/>
+  <testcase name="getTest" classname="com.deco2800.marswars.Array2DTest" time="0.0"/>
+  <testcase name="getTestException" classname="com.deco2800.marswars.Array2DTest" time="0.001"/>
+  <testcase name="setTest" classname="com.deco2800.marswars.Array2DTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

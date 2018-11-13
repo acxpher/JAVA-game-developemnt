@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.deco2800.marswars.JenkinsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-10-22T17:32:19" hostname="freddys-MacBook-Pro.local" time="0.0">
+  <properties/>
+  <testcase name="HackTest" classname="com.deco2800.marswars.JenkinsTest" time="0.0"/>
+  <system-out><![CDATA[Its a Test!! The pioneers used to ride these babys for miles!
+]]></system-out>
+  <system-err><![CDATA[	at com.deco2800.marswars.util.PathfindingThread.run(PathfindingThread.java:36)
+	at java.lang.Thread.run(Thread.java:748)
+]]></system-err>
+</testsuite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.deco2800.marswars.HealthBarTest" tests="6" skipped="1" failures="0" errors="0" timestamp="2017-10-22T17:32:15" hostname="freddys-MacBook-Pro.local" time="0.141">
+  <properties/>
+  <testcase name="SetHealthTest" classname="com.deco2800.marswars.HealthBarTest" time="0.12"/>
+  <testcase name="GetHealthBarTest" classname="com.deco2800.marswars.HealthBarTest" time="0.012"/>
+  <testcase name="DeletionTest" classname="com.deco2800.marswars.HealthBarTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="VisibilityTest" classname="com.deco2800.marswars.HealthBarTest" time="0.003"/>
+  <testcase name="TranslationTest" classname="com.deco2800.marswars.HealthBarTest" time="0.002"/>
+  <testcase name="GetInvalidHealthBarTest" classname="com.deco2800.marswars.HealthBarTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[log4j:WARN No appenders could be found for logger (com.deco2800.marswars.managers.GameManager).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+]]></system-err>
+</testsuite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.deco2800.marswars.AttackableEntityTest" tests="13" skipped="1" failures="0" errors="0" timestamp="2017-10-22T17:32:19" hostname="freddys-MacBook-Pro.local" time="0.009">
+  <properties/>
+  <testcase name="testSetArmorDamage" classname="com.deco2800.marswars.AttackableEntityTest" time="0.001"/>
+  <testcase name="testSetLoyalty" classname="com.deco2800.marswars.AttackableEntityTest" time="0.001"/>
+  <testcase name="testConstructors" classname="com.deco2800.marswars.AttackableEntityTest" time="0.001"/>
+  <testcase name="testSetAttackRange" classname="com.deco2800.marswars.AttackableEntityTest" time="0.0"/>
+  <testcase name="testSetAttackSpeed" classname="com.deco2800.marswars.AttackableEntityTest" time="0.001"/>
+  <testcase name="testSetAction" classname="com.deco2800.marswars.AttackableEntityTest" time="0.002"/>
+  <testcase name="testSetDamage" classname="com.deco2800.marswars.AttackableEntityTest" time="0.0"/>
+  <testcase name="testSetHealth" classname="com.deco2800.marswars.AttackableEntityTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testAttackAction" classname="com.deco2800.marswars.AttackableEntityTest" time="0.0"/>
+  <testcase name="testSetMaxHealth" classname="com.deco2800.marswars.AttackableEntityTest" time="0.0"/>
+  <testcase name="testSetMaxArmor" classname="com.deco2800.marswars.AttackableEntityTest" time="0.0"/>
+  <testcase name="testSetArmor" classname="com.deco2800.marswars.AttackableEntityTest" time="0.001"/>
+  <testcase name="testSetOwner" classname="com.deco2800.marswars.AttackableEntityTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

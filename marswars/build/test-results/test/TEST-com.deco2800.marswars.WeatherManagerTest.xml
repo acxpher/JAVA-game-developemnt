@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.deco2800.marswars.WeatherManagerTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2017-10-22T17:32:21" hostname="freddys-MacBook-Pro.local" time="1.213">
+  <properties/>
+  <testcase name="testGenerateFirstDrop" classname="com.deco2800.marswars.WeatherManagerTest" time="0.001"/>
+  <testcase name="testCheckPosition" classname="com.deco2800.marswars.WeatherManagerTest" time="0.0"/>
+  <testcase name="testIsRaining" classname="com.deco2800.marswars.WeatherManagerTest" time="0.0"/>
+  <testcase name="testOnTick" classname="com.deco2800.marswars.WeatherManagerTest" time="0.0"/>
+  <testcase name="testSetWeatherEvent" classname="com.deco2800.marswars.WeatherManagerTest" time="1.211"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

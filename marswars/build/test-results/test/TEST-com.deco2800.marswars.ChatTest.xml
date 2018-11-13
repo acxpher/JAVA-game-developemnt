@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.deco2800.marswars.ChatTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2017-10-22T17:32:19" hostname="freddys-MacBook-Pro.local" time="0.021">
+  <properties/>
+  <testcase name="BasicJoinTest" classname="com.deco2800.marswars.ChatTest" time="0.017"/>
+  <testcase name="MessageBeforeJoinTest" classname="com.deco2800.marswars.ChatTest" time="0.001"/>
+  <testcase name="ServerShutdownTest" classname="com.deco2800.marswars.ChatTest" time="0.001"/>
+  <testcase name="JoinLobbyTwiceTest" classname="com.deco2800.marswars.ChatTest" time="0.0"/>
+  <testcase name="MessageTest" classname="com.deco2800.marswars.ChatTest" time="0.0"/>
+  <testcase name="ClientLeaveTest" classname="com.deco2800.marswars.ChatTest" time="0.001"/>
+  <testcase name="TwoJoinTest" classname="com.deco2800.marswars.ChatTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

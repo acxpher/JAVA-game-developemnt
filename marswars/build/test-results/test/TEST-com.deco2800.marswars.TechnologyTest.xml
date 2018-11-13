@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.deco2800.marswars.TechnologyTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2017-10-22T17:32:18" hostname="freddys-MacBook-Pro.local" time="0.006">
+  <properties/>
+  <testcase name="technologyEqualsTest" classname="com.deco2800.marswars.TechnologyTest" time="0.0"/>
+  <testcase name="negativeTechnologyResourceCostTest" classname="com.deco2800.marswars.TechnologyTest" time="0.001"/>
+  <testcase name="nullTechonologyDescriptionTest" classname="com.deco2800.marswars.TechnologyTest" time="0.0"/>
+  <testcase name="badResourceArrayLengthTechnologyTest" classname="com.deco2800.marswars.TechnologyTest" time="0.001"/>
+  <testcase name="technologyConstructorTest" classname="com.deco2800.marswars.TechnologyTest" time="0.002"/>
+  <testcase name="nullTechnologyNameTest" classname="com.deco2800.marswars.TechnologyTest" time="0.001"/>
+  <testcase name="techonologyToStringTest" classname="com.deco2800.marswars.TechnologyTest" time="0.0"/>
+  <testcase name="nullTechnologyParentsTest" classname="com.deco2800.marswars.TechnologyTest" time="0.0"/>
+  <system-out><![CDATA[Technology: toString() tech
+Cost: 1, 1, 1
+Parent techs: Parent tech, 
+Description: Tests toString()
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

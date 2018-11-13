@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.deco2800.marswars.worlds.map.tools.NoiseMapTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-10-22T17:32:19" hostname="freddys-MacBook-Pro.local" time="0.003">
+  <properties/>
+  <testcase name="constructorTest" classname="com.deco2800.marswars.worlds.map.tools.NoiseMapTest" time="0.0"/>
+  <testcase name="getNoiseAtTest" classname="com.deco2800.marswars.worlds.map.tools.NoiseMapTest" time="0.001"/>
+  <testcase name="getNoiseAtExceptionTest" classname="com.deco2800.marswars.worlds.map.tools.NoiseMapTest" time="0.001"/>
+  <testcase name="getNoiseAtExceptionTest2" classname="com.deco2800.marswars.worlds.map.tools.NoiseMapTest" time="0.0"/>
+  <system-out><![CDATA[/n noise: -0.03182215783059005
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
